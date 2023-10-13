@@ -9,11 +9,16 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
+- 👨‍💻 All of my projects are available at [https://amannroy.github.io/My-Personal-Portfolio/](https://amannroy.github.io/My-Personal-Portfolio/)
+
+- 💬 Ask me about **JavaScript, Reactjs**
+
 - 📫 How to reach me **royaman56456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman roy" height="30" width="40" /></a>
+<a href="https://discord.gg/t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="t" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amannroy&show_icons=true&locale=en" alt="amannroy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amannroy&" alt="amannroy" /></p>
+
+
+
