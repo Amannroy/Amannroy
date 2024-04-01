@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amannroy&label=Profile%20views&color=0e75b6&style=flat" alt="amannroy" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Chat Messaging App**
+- 🔭 I am currently working as a Full Stack Developer in a startup company.
 
 - 🌱 I’m currently learning **Reactjs**
 
