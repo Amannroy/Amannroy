@@ -7,11 +7,11 @@
 
 - 🔭 I am currently working as a Full Stack Developer in a startup company.
 
-- 🌱 I’m currently learning **Reactjs**
+-🌱 I am passionate about expanding my knowledge across various technologies, always striving to stay at the forefront of innovation.
 
 - 👨‍💻 All of my projects are available at [https://amannroy.github.io/My-Personal-Portfolio/](https://amannroy.github.io/My-Personal-Portfolio/)
 
-- 💬 Ask me about **JavaScript, Reactjs**
+- 💬 Ask me about **JavaScript, Reactjs, Nodejs, MySQL, MongoDB**
 
 - 📫 How to reach me **royaman56456@gmail.com**
 
