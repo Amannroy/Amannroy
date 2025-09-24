@@ -5,12 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amannroy&label=Profile%20views&color=0e75b6&style=flat" alt="amannroy" /> </p>
 
-- 🔭 I am currently pursuing my MCA and am passionate about solving Data Structures and Algorithms problems.
-- 🌱 I am keenly interested in the MERN stack and enjoy building full-stack applications.
-- 💻 My tech stack includes **Java, JavaScript, HTML, CSS, ReactJS, NodeJS, Express, MongoDB, MySQL**.
-- ⚙️ I am also curious about how cable systems are made and love to understand how technologies work behind the scenes.
-- 💬 Ask me about **JavaScript, Reactjs, Nodejs, MySQL, MongoDB**
-- 📫 How to reach me: **royaman56456@gmail.com**
+- 🔭 I am currently pursuing my MCA and am passionate about solving Data Structures and Algorithms problems.  
+- 🌱 I am keenly interested in the MERN stack and enjoy building full-stack applications.  
+- 💻 My tech stack includes **Java, JavaScript, HTML, CSS, ReactJS, NodeJS, Express, MongoDB, MySQL**.  
+- ⚙️ I am also curious about how cable systems are made and love to understand how technologies work behind the scenes.  
+- 💬 Ask me about **JavaScript, Reactjs, Nodejs, MySQL, MongoDB**  
+- 📫 How to reach me: **royaman56456@gmail.com**  
+
+🚀 **My Portfolio** → [Visit here 🌐](https://portfolio-live-website.netlify.app/)  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
